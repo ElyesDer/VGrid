@@ -7,8 +7,8 @@
 
 <table class="tg"><thead>
   <tr>
-    <td class="tg-0lax"><img src="https://github.com/ElyesDer/VGrid/blob/main/Preview/Basic.png" width="100"/></td>
-    <td class="tg-0lax"><img src="https://github.com/ElyesDer/VGrid/blob/main/Preview/Expandable.png" width="100"/></td>
+    <td class="tg-0lax"><img src="https://github.com/ElyesDer/VGrid/blob/main/Preview/Basic.png" width="250"/></td>
+    <td class="tg-0lax"><img src="https://github.com/ElyesDer/VGrid/blob/main/Preview/Expandable.png" width="250"/></td>
   </tr></thead>
 </table>
 
